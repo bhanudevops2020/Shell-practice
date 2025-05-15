@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Trump
+PERSON1=Trump     #there should be no space before and after =
 PERSON2=Musk
 
 echo "$PERSON1:: Hey Musk, How are you?"
