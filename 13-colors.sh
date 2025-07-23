@@ -1,10 +1,10 @@
 #!/bin/bash
 
 USERID=$(id -u)
-R="\e[31m"
-G="\e[32m"
-Y="\e[33m"
-N="\e[0m"   # Reset
+R="\e[31m"   # Red
+G="\e[32m"   # Green
+Y="\e[33m"   # Blue
+N="\e[0m"    # Reset
 
 if [ $USERID -ne 0 ]
 then
