@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# for i in {1..100}
-# do
-#     echo $1
-# done
+for i in {1..100}
+do
+    echo $i
+done
 
-for (int i=0; i<=100; i++) {
-	print i;
-}
