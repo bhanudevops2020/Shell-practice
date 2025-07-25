@@ -5,6 +5,6 @@
 #     echo $1
 # done
 
-for(int i=0; i<=100; i++){
+for (int i=0; i<=100; i++) {
 	print i;
 }
